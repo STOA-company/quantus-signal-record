@@ -1,0 +1,2 @@
+signal_date,decided_at_utc,chip_target,chip_changed,regime_target,regime_changed,gold_target,gold_changed,data_last_date,source,inputs
+2026-10-30,2026-11-02T01:36:36Z,SMH:25.00|USD:75.00,initial,SPY:100.00,initial,BIL:100.00,initial,2026-10-30,local-blob,"{""chip_exposure"":1.75,""gld_sma50"":390.5718,""gld_sma200"":412.9201,""regime_decided_on"":""2026-10-30"",""regime_month_end_today"":true,""mom13612u"":{""SPY"":0.04548,""TIP"":0.00323,""BIL"":0.01698,""IEF"":-3e-05},""chip_signal_index"":""SOX""}"
