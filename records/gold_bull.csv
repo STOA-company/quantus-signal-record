@@ -1,1 +1,2 @@
 trader,signal_date,decided_at_utc,inputs,signal,changed,exec_date,exec_open,holding,cost_applied,close,daily_return,nav,note
+gold_bull,2026-11-04,2026-11-04T22:36:42Z,"{""chip_exposure"":1.0,""gld_sma50"":386.8774,""gld_sma200"":411.9779,""regime_decided_on"":""2026-10-30"",""regime_month_end_today"":false,""mom13612u"":{""SPY"":0.04548,""TIP"":0.00323,""BIL"":0.01698,""IEF"":-3e-05},""chip_signal_index"":""SOXX""}",BIL:100.00,N,2026-11-05,BIL:91.4400,BIL:100.00,0.001500,BIL:91.4300,-0.001609,0.998391,first row: entry from cash at open source=eodhd+SOXX-for-SOX
